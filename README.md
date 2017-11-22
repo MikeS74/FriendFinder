@@ -7,7 +7,7 @@
 
 ## Requirements
 - Use Node & Express for server connection & route handling
-- Create an API link form stored arrays
+- Create an API link from stored arrays
 - Use Math.abs to match scores from user survey results
 - Deploy web app to Heroku
 
