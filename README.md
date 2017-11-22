@@ -18,5 +18,5 @@
 - jQuery, AJAX, and JSON
 - Node.js & Express
 
-## Code Explaination
+## Code Explanation
 Node.js and Express create a server connection with routes to public HTML files. jQuery take in results from user surveys, stores them as arrays in friends.js, and Math.abs compares all users' scores to find the best match. Match results are then converted back to jQuery and displayed in a modal. An API link is provided to view all final survey answers in JSON format.
