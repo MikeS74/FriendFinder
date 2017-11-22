@@ -11,6 +11,7 @@ module.exports = function(app) {
 //Friend score matching function
     app.post("/api/friends", function(req, res) {
         var userInfo = req.body;
+        "use strict";
         let totalDif = 0;
         let compatibleScores = [];
         let compatibleFriend;
