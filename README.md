@@ -1,4 +1,4 @@
-# HW - {FriendFinder}
+# Friend Finder
 
 ## Live Link
  - https://frozen-headland-57997.herokuapp.com/
